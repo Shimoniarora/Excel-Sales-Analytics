@@ -2,31 +2,42 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a customer performance report [AtliQ_Customer_sales_perf.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191778/AtliQ_Customer_sales_perf.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+    **2.** Conduct a comprehensive comparison between market performance and sales targets [AtliQ_Market_perf vs Target.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191791/AtliQ_Market_perf.vs.Target.pdf)
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- In this comprehensive Excel-based project, I analyzed and visualized customer data for the years 2019, 2020, 2021. The dataset comprises net sales figures for various customer stores that sold the products.
+  
+**Customer Analysis:**
+Detailed net sales breakdown by each customer store facilitates a nuanced understanding of product performance.
+
+![2](https://github.com/Shimoniarora/Excel-Sales-Analytics/assets/158834865/b63a0664-a880-4db5-a41c-ead99035d079)
+
+**Market Performance vs Target:**
+Robust analysis of market (country) performance against targets for 2019, 2020, 2021, and a comparative analysis for 2021-target.
+
+![1](https://github.com/Shimoniarora/Excel-Sales-Analytics/assets/158834865/3712d77d-830d-4606-8170-f909bad2f91c)
+
+**List-Down Selections:**
+Enhanced user experience with list-down selections for Market, Region, and Division facilitates interactive and customized data exploration.
 
 
 ## Finance Report :
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by Fiscal Year [AtliQ_P&L.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191799/AtliQ_P.L.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+**Profit and Loss Statements:**
+P&L statements for each year (2019, 2020, 2021, and projections for 2022) provide a comprehensive view of financial performance.
+Key metrics include net sales, COGS, GM, and GM%, offering insights into profitability.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+**List-Down Selections:**
+Enhanced user experience with list-down selections for Market, Region, and Division facilitates interactive and customized data exploration.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
