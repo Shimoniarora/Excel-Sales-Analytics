@@ -37,24 +37,34 @@ Detailed net sales breakdown by each customer store to understand product perfor
 Analysis of market (country) performance against targets for 2019, 2020, 2021, and a comparative analysis for 2021-target.
 
 **Insights:**
+
 **Negative Target Discrepancy:** In 2021, all countries show negative values in the target column, meaning actual sales are below the goal. This points to a general failure to meet sales targets worldwide.
+
+**Varying Impact:** The impact of negative targets varies among countries. For example, in Sweden, where the 2021-target is relatively low, the percentage bar is high, suggesting a significant underperformance. In contrast, Poland has a higher 2021-target, but the percentage bar indicates an even more substantial underperformance as compared to other countries.
+
+**Solution:**
+
+**Strategic Distribution:** Evaluate and optimize distribution channels in underperforming regions, and exploring new channels to improve product accessibility and visibility.
+
+**Product Strategies:** Customize product offerings for Sweden and Poland by aligning with local preferences. Introduce variations or features that resonate with the market and get competitor analysis insights to gain a competitive edge.
+
+**Agile Market Approach:** Stay updated on market trends in Sweden and Poland, adapting strategies based on evolving consumer behaviors. Utilize competitor analysis findings to proactively respond to shifts, ensuring a dynamic and responsive market approach.
 
 
 ![1](https://github.com/Shimoniarora/Excel-Sales-Analytics/assets/158834865/3712d77d-830d-4606-8170-f909bad2f91c)
 
-**List-Down Selections:**
-Enhanced user experience with list-down selections for Market, Region, and Division facilitates interactive and customized data exploration.
 
 
 ## Finance Report :
 
-- **Project objective:** 
+- **Project objective_2:** 
 
     **1.** Create Profit and Loss (P&L) reports by Fiscal Year [AtliQ_P&L.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191799/AtliQ_P.L.pdf)
 
 **Profit and Loss Statements:**
 P&L statements for each year (2019, 2020, 2021, and projections for 2022) provide a comprehensive view of financial performance.
 Key metrics include net sales, COGS, GM, and GM%, offering insights into profitability.
+![1111](https://github.com/Shimoniarora/Excel-Sales-Analytics/assets/158834865/b102a602-cfa5-4820-941a-5badb2260739)
 
 **List-Down Selections:**
 Enhanced user experience with list-down selections for Market, Region, and Division facilitates interactive and customized data exploration.
@@ -71,5 +81,5 @@ Enhanced user experience with list-down selections for Market, Region, and Divis
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Optimization of report generation
+
