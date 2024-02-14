@@ -1,16 +1,34 @@
 # Excel: Sales Analytics
 
+##### About the Brand: AtliQ Hardware is a company specializing in the production and sale of hardware such as PCs, mice, printers, etc. Their products are distributed to various customers, including Croma, Bestbuy, Staples, and Flipkart. AtliQ Hardware directly sells its products through its website and exclusive stores. The company's objective is to analyze data and track product Net sales across diverse markets and channels to enhance its understanding of sales performance in different regions. They also aim to develop and implement effective sales strategies to optimize their market presence.
+
+
+
 - **Project objective:** 
 
-    **1.** Create a customer performance report [AtliQ_Customer_sales_perf.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191778/AtliQ_Customer_sales_perf.pdf)
+    **1.** Build a customer performance report to show Net Sales for Individual customer for 2019 ,2020, 2021. [AtliQ_Customer_sales_perf.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191778/AtliQ_Customer_sales_perf.pdf)
 
 
-    **2.** Conduct a comprehensive comparison between market performance and sales targets [AtliQ_Market_perf vs Target.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191791/AtliQ_Market_perf.vs.Target.pdf)
+    **2.** Create a market performance report to show Net sales and targets [AtliQ_Market_perf vs Target.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191791/AtliQ_Market_perf.vs.Target.pdf)
+  
 
-- In this comprehensive Excel-based project, I analyzed and visualized customer data for the years 2019, 2020, 2021. The dataset comprises net sales figures for various customer stores that sold the products.
+  In this Excel-based project, I analyzed and visualized customer data for the years 2019, 2020, 2021. The dataset comprises net sales figures for various customer stores that sold the products.
   
 **Customer Analysis:**
-Detailed net sales breakdown by each customer store facilitates a nuanced understanding of product performance.
+Detailed net sales breakdown by each customer store to understand product performance.
+
+**Insights:**
+
+**Amazon Growth:** Amazon experienced substantial growth in net sales from 2019 to 2020 (12.2M to 27.5M) and even more significant growth from 2020 to 2021 (27.5M to 82M). The 219% increase from 2020 to 2021 highlights the acceleration in sales for Amazon during this period.
+
+**Integrated Stores:** Although the net sales for integrated stores in 2021 increased dramatically by 887%, the actual revenue is relatively low (1.4M in 2021 compared to 0.2M in 2020). This suggests a substantial percentage increase but a limited impact on overall revenue.
+
+
+**Solution:**
+
+**Optimize Integrated Stores:** Despite a substantial percentage increase, actual revenue is low. Improve product offerings, marketing, and inventory management to enhance both percentage growth and overall revenue sustainability.
+
+**Replicate Amazon's Strategy:** Identify key factors driving Amazon's exceptional growth. Apply successful strategies, understanding product mix, marketing tactics, and potential partnerships to replicate similar success across different sales channels.
 
 ![2](https://github.com/Shimoniarora/Excel-Sales-Analytics/assets/158834865/b63a0664-a880-4db5-a41c-ead99035d079)
 
