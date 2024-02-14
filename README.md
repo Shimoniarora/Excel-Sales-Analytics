@@ -33,8 +33,12 @@ Detailed net sales breakdown by each customer store to understand product perfor
 
 ![2](https://github.com/Shimoniarora/Excel-Sales-Analytics/assets/158834865/b63a0664-a880-4db5-a41c-ead99035d079)
 
-**Market Performance vs Target:**
+**2. Market Performance vs Target:**
 Analysis of market (country) performance against targets for 2019, 2020, 2021, and a comparative analysis for 2021-target.
+
+**Insights:**
+**Negative Target Discrepancy:** In 2021, all countries show negative values in the target column, meaning actual sales are below the goal. This points to a general failure to meet sales targets worldwide.
+
 
 ![1](https://github.com/Shimoniarora/Excel-Sales-Analytics/assets/158834865/3712d77d-830d-4606-8170-f909bad2f91c)
 
