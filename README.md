@@ -1,10 +1,11 @@
 # Excel: Sales Analytics
 
-##### About the Brand: AtliQ Hardware is a company specializing in the production and sale of hardware such as PCs, mice, printers, etc. Their products are distributed to various customers, including Croma, Bestbuy, Staples, and Flipkart. AtliQ Hardware directly sells its products through its website and exclusive stores. The company's objective is to analyze data and track product Net sales across diverse markets and channels to enhance its understanding of sales performance in different regions. They also aim to develop and implement effective sales strategies to optimize their market presence.
+##### About the Brand: AtliQ Hardware is a company specializing in the production and sale of hardware such as PCs, mouse, printers, etc. Their products are distributed to various customers, including Croma, Bestbuy, Staples, and Flipkart. AtliQ Hardware directly sells its products through its website and exclusive stores also. 
+The **company's objective** is to analyze data and track product Net sales across diverse markets and channels to enhance its understanding of sales performance in different regions and markets. They also aim to develop and implement effective sales strategies to optimize their market presence.
 
 
 
-- **Project objective:** 
+- **Project objective_1:** 
 
     **1.** Build a customer performance report to show Net Sales for Individual customer for 2019 ,2020, 2021. [AtliQ_Customer_sales_perf.pdf](https://github.com/Shimoniarora/Excel-Sales-Analytics/files/14191778/AtliQ_Customer_sales_perf.pdf)
 
@@ -14,7 +15,7 @@
 
   In this Excel-based project, I analyzed and visualized customer data for the years 2019, 2020, 2021. The dataset comprises net sales figures for various customer stores that sold the products.
   
-**Customer Analysis:**
+**1. Customer Analysis:**
 Detailed net sales breakdown by each customer store to understand product performance.
 
 **Insights:**
