@@ -20,7 +20,7 @@ Detailed net sales breakdown by each customer store to understand product perfor
 
 **Insights:**
 
-**Amazon Growth:** Amazon experienced substantial growth in net sales from 2019 to 2020 (12.2M to 27.5M) and even more significant growth from 2020 to 2021 (27.5M to 82M). The 219% increase from 2020 to 2021 highlights the acceleration in sales for Amazon during this period.
+**Amazon Growth:** Amazon experienced substantial growth in net sales from 2019 to 2020 (12.2M to 37.5M) and even more significant growth from 2020 to 2021 (37.5M to 82M). The 219% increase from 2020 to 2021 highlights the acceleration in sales for Amazon during this period.
 
 **Integrated Stores:** Although the net sales for integrated stores in 2021 increased dramatically by 887%, the actual revenue is relatively low (1.4M in 2021 compared to 0.2M in 2020). This suggests a substantial percentage increase but a limited impact on overall revenue.
 
@@ -48,7 +48,7 @@ Analysis of market (country) performance against targets for 2019, 2020, 2021, a
 
 **Product Strategies:** Customize product offerings for Sweden and Poland by aligning with local preferences. Introduce variations or features that resonate with the market and get competitor analysis insights to gain a competitive edge.
 
-**Agile Market Approach:** Stay updated on market trends in Sweden and Poland, adapting strategies based on evolving consumer behaviors. Utilize competitor analysis findings to proactively respond to shifts, ensuring a dynamic and responsive market approach.
+**Agile Market Approach:** Stay updated on market trends in Sweden and Poland and in other underperforming regions, adapting strategies based on evolving consumer behaviors.
 
 
 ![1](https://github.com/Shimoniarora/Excel-Sales-Analytics/assets/158834865/3712d77d-830d-4606-8170-f909bad2f91c)
